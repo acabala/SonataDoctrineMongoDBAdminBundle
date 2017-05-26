@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": "^5.3 || ^7.1",
-        "doctrine/mongodb-odm": "^1.4",
+        "doctrine/mongodb-odm": "dev-master",
         "doctrine/mongodb-odm-bundle": "^3.3.0",
         "sonata-project/admin-bundle": "^3.1"
     },
